@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Leixian's world"
-description              : "Homepage of Leixian Shen"
+title                    : "Leixian's Homepage"
+description              : ""
 repository               : "shenleixian.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Leixian Shen (沈磊贤)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tsinghua University"
+  name             : "Leixian Shen"
+  avatar           : "images/Leixian.jpg"
+  bio              : "School of Software, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -161,3 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+github: [meta]
+

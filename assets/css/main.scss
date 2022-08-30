@@ -40,6 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+._blank{
+    padding-right: 1.4em;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -51,7 +55,8 @@
     
 
     .paper-box-image{
-        justify-content: center;
+        justify-content: left;
+        padding-right: -15em;
         display: flex;
         width: 100%;
         order: 2;
@@ -64,6 +69,7 @@
     
     .paper-box-text{
         max-width: 100%;
+        padding-left: -25em;
         order: 1;
     }
     
@@ -71,23 +77,22 @@
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
-            max-width: 40%;
+            max-width: 25%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 1.5em;
+            max-width: 75%;
             order: 2;
         }
-
     }
 
 
 }
 
-$scroll_offset : 2em;
+$scroll_offset : 9em;
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
@@ -101,9 +106,9 @@ h1:before, .anchor:before {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
+    margin-top: -1.5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #144185;
     font-size: .8em;
 }
