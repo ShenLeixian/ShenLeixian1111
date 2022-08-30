@@ -14,7 +14,7 @@ IEEE Transactions on Visualization and Computer Graphics. 2022.
     <a class="_blank" href="https://arxiv.org/pdf/2208.10947.pdf" >
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="{https://doi.org/10.1109/TVCG.2022.3148007}">
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a>
     <a class="_blank" href="https://arxiv.org/abs/2208.10947">
@@ -73,9 +73,9 @@ ACM International Conference on Information and Knowledge Management, CIKM'22 de
     <!-- <a class="_blank" href="{https://doi.org/10.1145/3511808.3557159}">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a> -->
-    <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf">
+    <!-- <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
+    </a> -->
     <!-- <a target="_blank" href="https://github.com/microsoft/VisTalk">
         <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Code
     </a> -->
@@ -125,7 +125,7 @@ Eurographics Conference on Visualization, EuroVis'22 short paper. 2021.
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="{https://doi.org/10.2312/evs.20211061}">
+    <a class="_blank" href="https://doi.org/10.2312/evs.20211061">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a>
     <!-- <a class="_blank" href="https://arxiv.org/abs/2208.10947">
