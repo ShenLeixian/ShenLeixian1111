@@ -115,7 +115,7 @@ Data Science and Engineering. 2022.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroVis 2021</div><img src='images/paper/EuroVis2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Towards Natural Language-Based Visualization Authoring
+## TaskVis: Task-oriented Visualization Recommendation
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
 
