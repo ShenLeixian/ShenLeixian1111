@@ -12,7 +12,7 @@
 
 - ### *2016.09 - 2020.06*,  Nanjing University of Posts and Telecommunications. 
 
-&nbsp;&ensp;&ensp;&ensp;*B.S.* in Software Engineering (Graduation with honor)
+&nbsp;&ensp;&ensp;&ensp;*B.S.* in Software Engineering (Graduation with Honor)
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Fu Xiao</font>](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE) and [<font color=Black>He Xu</font>](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52C752DCFE050007F01006EFE)
 
-&ensp;&ensp;&ensp; Thesis: "High-precision wireless positioning technology based on RFID", Excellent Graduation Thesis of Jiangsu Province.
+&ensp;&ensp;&ensp; Thesis: "High-Precision Wireless Positioning Technology Based on RFID". (Excellent Graduation Thesis of Jiangsu Province)
