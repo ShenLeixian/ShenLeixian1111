@@ -64,7 +64,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22). 20
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
 
-ACM International Conference on Information and Knowledge Management, CIKM'22 demo. 2022.
+ACM International Conference on Information and Knowledge Management, CIKM'22 (Short Paper). 2022.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
@@ -119,7 +119,7 @@ Data Science and Engineering. 2022.
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
 
-Eurographics Conference on Visualization, EuroVis'22 short paper. 2021.
+Eurographics Conference on Visualization, EuroVis'22 (Short Paper). 2021.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
