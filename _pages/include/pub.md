@@ -12,7 +12,7 @@ IEEE Transactions on Visualization and Computer Graphics. 2022.
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/pdf/2208.10947.pdf" >
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
@@ -21,7 +21,7 @@ IEEE Transactions on Visualization and Computer Graphics. 2022.
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <!-- <a target="_blank" href="{{ pub.code }}">
-        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Code
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a> -->
 </div>
 </div>
@@ -40,7 +40,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22). 20
 
 <div class="extra-links">
     <a class="_blank" href="https://www.microsoft.com/en-us/research/uploads/prod/2022/08/vistalk.pdf" >
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <!-- <a class="_blank" href="{https://doi.org/10.1109/TVCG.2022.3148007}">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
@@ -49,7 +49,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22). 20
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <!-- <a target="_blank" href="https://github.com/microsoft/VisTalk">
-        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Code
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a> -->
 </div>
 </div>
@@ -68,7 +68,7 @@ ACM International Conference on Information and Knowledge Management, CIKM'22 (S
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <!-- <a class="_blank" href="{https://doi.org/10.1145/3511808.3557159}">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
@@ -77,7 +77,7 @@ ACM International Conference on Information and Knowledge Management, CIKM'22 (S
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a> -->
     <!-- <a target="_blank" href="https://github.com/microsoft/VisTalk">
-        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Code
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a> -->
 </div>
 </div>
@@ -96,7 +96,7 @@ Data Science and Engineering. 2022.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_DSE.pdf" >
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <!-- <a class="_blank" href="{https://doi.org/10.1109/TVCG.2022.3148007}">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
@@ -105,7 +105,7 @@ Data Science and Engineering. 2022.
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a> -->
     <a class="_blank" href="https://github.com/ShenLeixian/TaskVis">
-        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Code
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
 </div>
@@ -123,7 +123,7 @@ Eurographics Conference on Visualization, EuroVis'22 (Short Paper). 2021.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <a class="_blank" href="https://doi.org/10.2312/evs.20211061">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
@@ -132,7 +132,7 @@ Eurographics Conference on Visualization, EuroVis'22 (Short Paper). 2021.
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a> -->
     <a class="_blank" href="https://github.com/ShenLeixian/TaskVis">
-        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Code
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
 </div>
@@ -150,7 +150,7 @@ Arxiv. 2022.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/graph.pdf" >
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> PDF
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <!-- <a class="_blank" href="{https://doi.org/10.1109/TVCG.2022.3148007}">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
@@ -159,7 +159,7 @@ Arxiv. 2022.
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
-        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Code
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
 </div>
