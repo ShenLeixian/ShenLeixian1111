@@ -98,7 +98,7 @@ Data Science and Engineering. 2022.
     <a class="_blank" href="https://rdcu.be/cVxfr" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="{https://doi.org/10.1007/s41019-022-00195-3}">
+    <a class="_blank" href="https://doi.org/10.1007/s41019-022-00195-3">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a>
     <a class="_blank" href="https://arxiv.org/abs/2205.03183">
