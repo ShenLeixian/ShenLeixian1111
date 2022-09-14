@@ -3,7 +3,7 @@
 ### Honors and Scholarship
 -	China National Scholarship. 2017, 2019
 -	Outstanding Student of Jiangsu Province. 2019
--	Innovation Pioneer of NJUPT. 2019 (only ten from NJUPT)
+-	Innovation Pioneer of NJUPT. 2019 (Only ten from NJUPT)
 -	Friends of Tsinghua-Jining Talent Scholarship of THU. 2021
 -	Hengtong Optoelectronics Scholarship of NJUPT. 2018
 -	China National Inspirational Scholarship. 2018
@@ -19,5 +19,5 @@
 -   National Second Prize. National College Student Service Outsourcing Innovation and Entrepreneurship Competition, 2018.
 -   Third runner-up. Aliyun Tianchi Qianli Ma Competition, 2018.
 -   National Third Prize. Next Generation Internet Technology Innovation Competition, 2019.
--   National Third Prize. "Software Cup" National College Student Software Design Competition, 2019.
+-   National Third Prize. "China Software Cup" National College Student Software Design Competition, 2019.
 
