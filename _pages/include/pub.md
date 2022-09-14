@@ -95,15 +95,15 @@ ACM International Conference on Information and Knowledge Management, CIKM'22 (S
 Data Science and Engineering. 2022.
 
 <div class="extra-links">
-    <a class="_blank" href="./pdf/TaskVis_DSE.pdf" >
+    <a class="_blank" href="https://rdcu.be/cVxfr" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="{https://doi.org/10.1109/TVCG.2022.3148007}">
+    <a class="_blank" href="{https://doi.org/10.1007/s41019-022-00195-3}">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <!-- <a class="_blank" href="https://arxiv.org/abs/2208.10947">
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2205.03183">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a> -->
+    </a>
     <a class="_blank" href="https://github.com/ShenLeixian/TaskVis">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
