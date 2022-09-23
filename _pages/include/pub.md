@@ -11,7 +11,7 @@
 IEEE Transactions on Visualization and Computer Graphics. 2022.
 
 <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/pdf/2208.10947.pdf" >
+    <a class="_blank" href="https://arxiv.org/pdf/2109.03506.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
