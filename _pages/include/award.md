@@ -8,8 +8,8 @@
 -	Hengtong Optoelectronics Scholarship of NJUPT. 2018
 -	China National Inspirational Scholarship. 2018
 -	NIIT Corporate Scholarship of NJUPT. 2019
+-	Best Student Model of NJUPT. 2017, 2018, 2019
 -	First-class Outstanding Student Scholarship of NJUPT. 2017, 2018, 2019
--	Outstanding Student of NJUPT. 2017, 2018, 2019
 -	Outstanding Youth Volunteer Pioneer. 2018
 
 ### Competition Awards
