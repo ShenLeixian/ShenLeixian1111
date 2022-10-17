@@ -8,7 +8,7 @@
 
 **Leixian Shen**, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, and Jianmin Wang.
 
-IEEE Transactions on Visualization and Computer Graphics. 2022.
+IEEE Transactions on Visualization and Computer Graphics, 2022.
 
 <div class="extra-links">
     <a class="_blank" href="https://arxiv.org/pdf/2109.03506.pdf" >
@@ -36,7 +36,7 @@ IEEE Transactions on Visualization and Computer Graphics. 2022.
 
 Yun Wang, Zhitao Hou, **Leixian Shen**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, and Dongmei Zhang
 
-IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22). 2022.
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 2022.
 
 <div class="extra-links">
     <a class="_blank" href="https://www.microsoft.com/en-us/research/uploads/prod/2022/08/vistalk.pdf" >
@@ -64,7 +64,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22). 20
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
 
-Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM'22. 2022.
+Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM'22, 2022.
 
 <i class='fas fa-award' style='color:#aa0000'> Best Demo Paper Candidate </i>
 
@@ -94,7 +94,7 @@ Proceedings of the 31st ACM International Conference on Information and Knowledg
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yihao Xu, Jiaxiang Dong, and Jianmin Wang
 
-Data Science and Engineering. 2022.
+Data Science and Engineering, 2022.
 
 <div class="extra-links">
     <a class="_blank" href="https://rdcu.be/cVxfr" >
@@ -121,7 +121,7 @@ Data Science and Engineering. 2022.
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
 
-Proceedings of the 23rd EG Conference on Visualization, EuroVis'21. 2021.
+Proceedings of the 23rd EG Conference on Visualization, EuroVis'21, 2021.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
