@@ -64,9 +64,9 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22). 20
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
 
-ACM International Conference on Information and Knowledge Management, CIKM'22 demo. 2022.
+Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM'22. 2022.
 
-<i class='fas fa-award' style='color:#aa0000'> Best Paper Candidate </i>
+<i class='fas fa-award' style='color:#aa0000'> Best Demo Paper Candidate </i>
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
@@ -90,7 +90,7 @@ ACM International Conference on Information and Knowledge Management, CIKM'22 de
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSE 2022</div><img src='images/paper/DSE2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Visual Data Analysis with Task-based Recommendations
+## Visual Data Analysis with Task-Based Recommendations
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yihao Xu, Jiaxiang Dong, and Jianmin Wang
 
@@ -117,11 +117,11 @@ Data Science and Engineering. 2022.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroVis 2021</div><img src='images/paper/EuroVis2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## TaskVis: Task-oriented Visualization Recommendation
+## TaskVis: Task-Oriented Visualization Recommendation
 
 **Leixian Shen**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
 
-Eurographics Conference on Visualization, EuroVis'22, Short Paper. 2021.
+Proceedings of the 23rd EG Conference on Visualization, EuroVis'21. 2021.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
