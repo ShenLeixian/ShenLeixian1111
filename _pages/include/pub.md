@@ -66,21 +66,18 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 20
 
 Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM'22, 2022.
 
-<i class='fas fa-award' style='color:#aa0000'> Best Demo Paper Candidate </i>
+<i class='fas fa-award' style='color:#000000'> Best Paper Candidate - Demo Track </i>
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="{https://doi.org/10.1145/3511808.3557159}">
+    <a class="_blank" href="https://dl.acm.org/doi/abs/10.1145/3511808.3557159">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <!-- <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a> -->
-    <!-- <a target="_blank" href="https://github.com/microsoft/VisTalk">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a> -->
+    </a>
+    <a class="_blank" href="https://dl.acm.org/doi/abs/10.1145/3511808.3557159">
+        <i class="fas fa-video" aria-hidden="true"></i> Video
+    </a>
 </div>
 </div>
 </div>
