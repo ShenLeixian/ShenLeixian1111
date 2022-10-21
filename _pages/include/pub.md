@@ -66,7 +66,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 20
 
 Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM'22, 2022.
 
-<i class='fas fa-award' style='color:#000000'> Best Paper Candidate - Demo Track </i>
+<i class='fas fa-award' style='color:#000000'> Best Paper Honorable Mention - Demo Track </i>
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
