@@ -48,9 +48,9 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 20
     <a class="_blank" href="https://www.microsoft.com/en-us/research/publication/towards-natural-language-based-visualization-authoring/">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
-    <!-- <a target="_blank" href="https://github.com/microsoft/VisTalk">
+    <a target="_blank" href="https://github.com/microsoft/VisTalk">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a> -->
+    </a>
 </div>
 </div>
 </div>
