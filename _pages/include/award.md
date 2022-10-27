@@ -31,9 +31,9 @@
 ### Fundings
 -   CERNET Next Generation Internet Technology Innovation Program, 2018.12~2019.12, Principal Investigator (¥ 100,000).<br>
 "Smart Library System Based on RFID and IPv6 Network"
--   National College Students Innovation and Entrepreneurship Training Program, 2018.05~2019.05, Principal Investigator (¥ 20,000).<br>
-"RFID Middleware Technology Based on Deep Learning and NB-IoT"
 -   NJUPT-YTO Joint Laboratory Innovation Program, 2018.05~2019.05, Principal Investigator (¥ 20,000).<br>
 "Modern Logistics Management System Based on RFID and NB-IoT"
--   Smart Service System Program, 2018.04~2018.10, Principal Investigator (¥ 20,000).<br>
+-   National College Students Innovation and Entrepreneurship Training Program, 2018.05~2019.05, Principal Investigator (¥ 20,000).<br>
 "High-Precision Indoor Wireless Localization Based on UHF RFID"
+<!-- -   Smart Service System Program, 2018.04~2018.10, Principal Investigator (¥ 20,000).<br>
+"High-Precision Indoor Wireless Localization Based on UHF RFID" -->
