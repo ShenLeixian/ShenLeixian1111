@@ -26,7 +26,7 @@
 <!-- Project: "Algorithm for Unified Grouping of Trade Names"  -->
 -   National Third Prize. Next Generation Internet Technology Innovation Competition. 2019.<br>
 -   National Third Prize. "China Software Cup" National College Student Software Design Competition. 2019.<br>
--   Third runner-up. Aliyun Tianchi Qianli Ma Competition. 2018.
+-   Third runner-up. Aliyun Tianchi Qianli Ma Competition. 2018
 
 ### Fundings
 -   CERNET Next Generation Internet Technology Innovation Program, 2018.12~2019.12, Principal Investigator (¥ 100,000).<br>
