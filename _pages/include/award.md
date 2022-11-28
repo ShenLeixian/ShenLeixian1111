@@ -11,7 +11,7 @@
 -	Innovation Pioneer of NJUPT (Only ten in NJUPT). 2019 
 -	NIIT Corporate Scholarship of NJUPT. 2019
 -	Hengtong Optoelectronics Scholarship of NJUPT. 2018
--	China National Inspirational Scholarship. 2018
+-	China National Scholarship for Encouragement. 2018
 -	Outstanding Youth Volunteer Pioneer of NJUPT. 2018
 -	Best Student Model of NJUPT. 2017, 2018, 2019
 -	First-Class Outstanding Student Scholarship of NJUPT. 2017, 2018, 2019

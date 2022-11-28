@@ -1,17 +1,17 @@
 # 📖 Publications
 
-<!-- TVCG 2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2022</div><img src='images/paper/TVCG2022.png' alt="sym" width="100%"></div></div>
+<!-- SIGMOD 2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2023</div><img src='images/paper/SIGMOD2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Towards Natural Language Interfaces for Data Visualization: A Survey
+## Learned Data-Aware Image Representations of Line Charts for Similarity Search 
 
-**Leixian Shen**, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, and Jianmin Wang.
+Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, and **<u>Leixian Shen</u>**
 
-IEEE Transactions on Visualization and Computer Graphics, 2022.
+Proceedings of the 2023 ACM Conference on Management of Data, SIGMOD 2023.
 
 <div class="extra-links">
-    <a class="_blank" href="https://arxiv.org/pdf/2109.03506.pdf" >
+    <!-- <a class="_blank" href="https://arxiv.org/pdf/2109.03506.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
     <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
@@ -19,7 +19,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2022.
     </a>
     <a class="_blank" href="https://arxiv.org/abs/2208.10947">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
+    </a> -->
     <!-- <a target="_blank" href="{{ pub.code }}">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a> -->
@@ -34,7 +34,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2022.
 
 ## Towards Natural Language-Based Visualization Authoring
 
-Yun Wang, Zhitao Hou, **Leixian Shen**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, and Dongmei Zhang
+Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, and Dongmei Zhang
 
 IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 2022.
 
@@ -56,15 +56,44 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 20
 </div>
 
 
+<!-- TVCG 2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2022</div><img src='images/paper/TVCG2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Towards Natural Language Interfaces for Data Visualization: A Survey
+
+**<u>Leixian Shen</u>**, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, and Jianmin Wang
+
+IEEE Transactions on Visualization and Computer Graphics, 2022.
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/pdf/2109.03506.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2208.10947">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <!-- <a target="_blank" href="{{ pub.code }}">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a> -->
+</div>
+</div>
+</div>
+
+
+
 <!-- CIKM 2022 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/paper/CIKM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## GALVIS: Visualization Construction through Example-Powered Declarative Programming
 
-**Leixian Shen**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
+**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
 
-Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM'22, 2022.
+Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM 2022.
 
 <i class='fas fa-award' style='color:#000000'> Best Paper Honorable Mention - Demo Track </i>
 
@@ -89,7 +118,7 @@ Proceedings of the 31st ACM International Conference on Information and Knowledg
 
 ## Visual Data Analysis with Task-Based Recommendations
 
-**Leixian Shen**, Enya Shen, Zhiwei Tai, Yihao Xu, Jiaxiang Dong, and Jianmin Wang
+**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yihao Xu, Jiaxiang Dong, and Jianmin Wang
 
 Data Science and Engineering, 2022.
 
@@ -116,9 +145,9 @@ Data Science and Engineering, 2022.
 
 ## TaskVis: Task-Oriented Visualization Recommendation
 
-**Leixian Shen**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
+**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
 
-Proceedings of the 23rd EG Conference on Visualization, EuroVis'21, 2021.
+Proceedings of the 23rd EG Conference on Visualization, EuroVis 2021.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
@@ -137,15 +166,15 @@ Proceedings of the 23rd EG Conference on Visualization, EuroVis'21, 2021.
 </div>
 </div>
 
-<!-- arxiv 2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
+<!-- arXiv 2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Graph Exploration Using Embedding-Guided Layouts
 
-Zhiwei Tai\*, **Leixian Shen\***, Enya Shen, and Jianmin Wang (* co-primary author)
+Zhiwei Tai\*, **<u>Leixian Shen</u>**\*, Enya Shen, and Jianmin Wang (* co-primary author)
 
-Arxiv. 2022.
+arXiv. 2022.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/graph.pdf" >
