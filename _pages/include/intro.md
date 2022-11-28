@@ -2,4 +2,4 @@ Hello! I am Leixian Shen (沈磊贤), a master student from Tsinghua University 
 
 My research interest is to leverage the intersection of Information Visualization (VIS), Human-Computer Interaction (HCI), Data Science (DS), and Artificial Intelligence (AI) to democratize visual data analysis and storytelling, especially on intelligent visualization creation, text-visual interplay, and human-ai collaboration. 
 
-If you are interested in my research, please feel free to contact me via *slx20@mails.tsinghua.edu.cn*.
+If you are interested in my research, please feel free to contact me via *<u>slx20@mails.tsinghua.edu.cn</u>*.
