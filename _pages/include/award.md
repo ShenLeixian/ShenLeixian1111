@@ -17,16 +17,16 @@
 -	First-Class Outstanding Student Scholarship of NJUPT. 2017, 2018, 2019
 
 ### Competition Awards
--   Provincial Grand Prize. "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition. 2019<br>
+-   Provincial Grand Prize. "Challenge Cup" College Student Curricular Academic Science and Technology Works Competition. 2019<br>
 <!-- Project: "High-Precision Indoor Wireless Localization Based on UHF RFID" <br> -->
--   National First Prize. "3S Cup" National College Student IoT Technology and Application Competition. 2018<br>
+-   National First Prize. "3S Cup" College Student IoT Technology and Application Competition. 2018<br>
 <!-- Project: "Smart Library System Based on RFID and Deep Learning" <br> -->
--   Provincial Grand Prize. National College Student Computer Design Competition. 2018<br>
+-   Provincial Grand Prize. College Student Computer Design Competition. 2018<br>
 <!-- Project: "Fall Detection System Based on Image Processing in Cloud Environment"  -->
--   National Second Prize. National College Student Service Outsourcing Innovation and Entrepreneurship Competition. 2018<br>
+-   National Second Prize. College Student Service Outsourcing Innovation and Entrepreneurship Competition. 2018<br>
 <!-- Project: "Algorithm for Unified Grouping of Trade Names"  -->
 -   National Third Prize. Next Generation Internet Technology Innovation Competition. 2019<br>
--   National Third Prize. "China Software Cup" National College Student Software Design Competition. 2019<br>
+-   National Third Prize. "China Software Cup" College Student Software Design Competition. 2019<br>
 -   Third runner-up. Aliyun Tianchi Qianli Ma Competition. 2018
 
 ### Fundings

@@ -1,4 +1,31 @@
 # 📖 Publications
+<!-- TVCG 2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Graph Exploration Using Embedding-Guided Layouts
+
+**<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, and Jianmin Wang (* co-primary author)
+
+IEEE Transactions on Visualization and Computer Graphics, 2023.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/graph.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="{https://doi.org/10.1109/TVCG.2022.3148007}">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="http://arxiv.org/abs/2208.13699">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
 
 <!-- SIGMOD 2023 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2023</div><img src='images/paper/SIGMOD2023.png' alt="sym" width="100%"></div></div>
@@ -11,10 +38,10 @@ Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, and **<u>Leixian S
 Proceedings of the 2023 ACM Conference on Management of Data, SIGMOD 2023.
 
 <div class="extra-links">
-    <!-- <a class="_blank" href="https://arxiv.org/pdf/2109.03506.pdf" >
+    <a class="_blank" href="./pdf/LineNet.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a>
     <a class="_blank" href="https://arxiv.org/abs/2208.10947">
@@ -167,29 +194,3 @@ Proceedings of the 23rd EG Conference on Visualization, EuroVis 2021.
 </div>
 </div>
 
-<!-- arXiv 2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Graph Exploration Using Embedding-Guided Layouts
-
-Zhiwei Tai\*, **<u>Leixian Shen</u>**\*, Enya Shen, and Jianmin Wang (* co-primary author)
-
-arXiv. 2022.
-
-<div class="extra-links">
-    <a class="_blank" href="./pdf/graph.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <!-- <a class="_blank" href="{https://doi.org/10.1109/TVCG.2022.3148007}">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <a class="_blank" href="http://arxiv.org/abs/2208.13699">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
-    <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>

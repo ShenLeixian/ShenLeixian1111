@@ -1,5 +1,5 @@
 Hello! I am Leixian Shen (沈磊贤), a master student in School of Software, Tsinghua University advised by Prof. [<font color=Black>Jianmin Wang</font>](https://www.thss.tsinghua.edu.cn/en/faculty/jianminwang.htm). Now I am also taking a research intern at Microsoft Research Asia under the supervision of Dr. [<font color=Black>Yun Wang</font>](https://www.microsoft.com/en-us/research/people/wangyun/).
 
-My research interest is to leverage the intersection of Information Visualization (VIS), Data Science (DS), Human-Computer Interaction (HCI), and Artificial Intelligence (AI) to democratize visual data analysis and storytelling, especially on intelligent visualization creation, text-visual interplay, and human-ai collaboration. 
+My research interest is to leverage the intersection of Information Visualization (VIS), Data Science (DS), Human-Computer Interaction (HCI), and Artificial Intelligence (AI) to democratize visual data analysis and storytelling, especially on intelligent data visualization creation, text-visual interplay, and human-ai collaboration. 
 
 If you are interested in my research, please feel free to contact me via *<u>slx20@mails.tsinghua.edu.cn</u>*.
