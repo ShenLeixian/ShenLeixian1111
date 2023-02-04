@@ -13,7 +13,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2023.
     <a class="_blank" href="./pdf/graph.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="{https://doi.org/10.1109/TVCG.2023.3238909}">
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a>
     <a class="_blank" href="http://arxiv.org/abs/2208.13699">
