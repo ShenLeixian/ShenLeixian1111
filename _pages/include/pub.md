@@ -38,18 +38,18 @@ Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, and **<u>Leixian S
 Proceedings of the 2023 ACM Conference on Management of Data, SIGMOD 2023.
 
 <div class="extra-links">
-    <!--<a class="_blank" href="./pdf/LineNet.pdf" >
+    <a class="_blank" href="./pdf/LineNet.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="https://arxiv.org/abs/2208.10947">
+    </a> -->
+    <!-- <a class="_blank" href="https://arxiv.org/abs/2208.10947">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a> -->
-    <!-- <a target="_blank" href="{{ pub.code }}">
+    <a target="_blank" href="https://github.com/Thanksyy/LineNet-and-LineBench-SIGMOD2023">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a> -->
+    </a>
 </div>
 </div>
 </div>
@@ -86,7 +86,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2022.
 
 
 <!-- IEEE VIS 2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2022</div><img src='images/paper/VIS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2022</div><img src='images/paper/VIS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Towards Natural Language-Based Visualization Authoring
