@@ -41,13 +41,41 @@ Proceedings of the 2023 ACM Conference on Management of Data, SIGMOD 2023.
     <a class="_blank" href="./pdf/LineNet.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3588942">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <!-- <a class="_blank" href="https://arxiv.org/abs/2208.10947">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a> -->
     <a target="_blank" href="https://github.com/Thanksyy/LineNet-and-LineBench-SIGMOD2023">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
+
+<!-- IEEE VIS 2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/VIS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Towards Natural Language-Based Visualization Authoring
+
+Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, and Dongmei Zhang
+
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 2022.
+
+<div class="extra-links">
+    <a class="_blank" href="https://www.microsoft.com/en-us/research/uploads/prod/2022/08/Towards_Natural_Language-Based_Visualization_Authoring.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3209357">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="https://www.microsoft.com/en-us/research/publication/towards-natural-language-based-visualization-authoring/">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a target="_blank" href="https://github.com/microsoft/VisTalk">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
@@ -85,34 +113,6 @@ IEEE Transactions on Visualization and Computer Graphics, 2022.
 
 
 
-<!-- IEEE VIS 2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2022</div><img src='images/paper/VIS2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Towards Natural Language-Based Visualization Authoring
-
-Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, and Dongmei Zhang
-
-IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 2022.
-
-<div class="extra-links">
-    <a class="_blank" href="https://www.microsoft.com/en-us/research/uploads/prod/2022/08/Towards_Natural_Language-Based_Visualization_Authoring.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3209357">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="https://www.microsoft.com/en-us/research/publication/towards-natural-language-based-visualization-authoring/">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
-    <a target="_blank" href="https://github.com/microsoft/VisTalk">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
-
 <!-- CIKM 2022 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/paper/CIKM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,9 +132,9 @@ Proceedings of the 31st ACM International Conference on Information and Knowledg
     <a class="_blank" href="https://dl.acm.org/doi/abs/10.1145/3511808.3557159">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a>
-    <a class="_blank" href="https://dl.acm.org/doi/abs/10.1145/3511808.3557159">
+    <!-- <a class="_blank" href="https://dl.acm.org/doi/abs/10.1145/3511808.3557159">
         <i class="fas fa-video" aria-hidden="true"></i> Video
-    </a>
+    </a> -->
 </div>
 </div>
 </div>
