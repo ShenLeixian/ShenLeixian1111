@@ -6,7 +6,7 @@
 
 - ### *2020.09 - 2023.06*, Tsinghua University. <br>
 *Master* in Software Engineering (Graduation with Honor)
-&ensp;&ensp;&ensp;Advisor: [<font color=Black>Jianmin Wang</font>](https://www.thss.tsinghua.edu.cn/faculty/wangjianmin.htm) and [<font color=Black>Enya Shen</font>](https://www.thss.tsinghua.edu.cn/faculty/shenenya.htm)
+&ensp;&ensp;&ensp;Advisor: [<font color=Black>Jianmin Wang</font>](https://www.thss.tsinghua.edu.cn/faculty/wangjianmin.htm) and [<font color=Black>Enya Shen</font>](https://www.thss.tsinghua.edu.cn/faculty/shenenya.htm)<br>
 Thesis: "Research on Task-Driven Visualization Recommendation" (Excellent Graduation Thesis of THU)
 
 - ### *2016.09 - 2020.06*,  Nanjing University of Posts and Telecommunications. <br>
