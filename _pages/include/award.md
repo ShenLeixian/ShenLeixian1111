@@ -38,3 +38,27 @@
 "High-Precision Indoor Wireless Localization Based on UHF RFID"
 <!-- -   Smart Service System Program, 2018.04~2018.10, Principal Investigator (¥ 20,000).<br>
 "High-Precision Indoor Wireless Localization Based on UHF RFID" -->
+
+
+
+<!-- ### Honors
+-   Excellent Graduation Thesis of THU. 2023
+-   Outstanding Graduates of THSS in THU. 2023
+-   CIKM 2022 Best Paper Honorable Mention (Demo Track). 2022
+-   Excellent Graduation Thesis of Jiangsu Province. 2021
+-   Outstanding Graduates of NJUPT. 2020
+-	Outstanding Student of Jiangsu Province. 2019
+-	Innovation Pioneer of NJUPT (Only ten in NJUPT). 2019 
+-	Outstanding Youth Volunteer Pioneer of NJUPT. 2018
+-	Best Student Model of NJUPT. 2017, 2018, 2019
+
+### Scholarships
+-   NSF and SIGWeb Travel Grants. 2022
+-   First-Class Scholarship for Excellence of THU. 2022
+-	Friends of Tsinghua-Jining Talent Scholarship of THU. 2021
+-	China National Scholarship. 2019
+-	NIIT Corporate Scholarship of NJUPT. 2019
+-	Hengtong Optoelectronics Scholarship of NJUPT. 2018
+-	China National Scholarship for Encouragement. 2018
+-	China National Scholarship. 2017
+-	First-Class Outstanding Student Scholarship of NJUPT. 2017, 2018, 2019 -->

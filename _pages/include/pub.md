@@ -1,4 +1,61 @@
 # 📖 Publications
+
+<!-- IEEE VIS 2023 -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Data Player: Automatic Generation of Data Videos with Narration-Animation Interplay
+
+**<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, Yun Wang
+
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 2023.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/graph.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="http://arxiv.org/abs/2208.13699">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div> -->
+
+
+<!-- arxiv 2023 wonderflow -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## WonderFlow: Easy Creation of Narration-Enriched Data Videos
+
+Yun Wang, **<u>Leixian Shen</u>**, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang
+
+arXiv, 2023.
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/graph.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="http://arxiv.org/abs/2208.13699">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div> -->
+
+
 <!-- TVCG 2023 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -121,9 +178,9 @@ IEEE Transactions on Visualization and Computer Graphics, 2022.
 
 **<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
 
-Proceedings of the 31st ACM International Conference on Information and Knowledge Management, CIKM 2022.
+Proceedings of the 31st ACM International Conference on Information and Knowledge Management (Demo Track), CIKM 2022.
 
-<i class='fas fa-award' style='color:#000000'> Best Paper Honorable Mention - Demo Track </i>
+<i class='fas fa-award' style='color:#000000'> Best Demo Paper Honorable Mention</i>
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
@@ -175,7 +232,7 @@ Data Science and Engineering, 2022.
 
 **<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
 
-Proceedings of the 23rd EG Conference on Visualization, EuroVis 2021.
+Proceedings of the 23rd Eurographics Conference on Visualization (Short Paper), EuroVis 2021.
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
