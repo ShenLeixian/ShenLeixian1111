@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Leixian Shen"
   avatar           : "images/Leixian.jpg"
-  bio              : "School of Software, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Ph.d in HKUST"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NxVwq4cAAAAJ&hl=en&sortby=pubdate"
-  email            : "slx20@mails.tsinghua.edu.cn"
+  email            : "shenleixian@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Shen-Leixian"
   uri              :
   bitbucket        :

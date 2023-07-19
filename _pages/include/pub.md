@@ -6,7 +6,7 @@
 
 ## Data Player: Automatic Generation of Data Videos with Narration-Animation Interplay
 
-**<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, Yun Wang
+**<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, and Yun Wang
 
 IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 2023, to appear.
 
