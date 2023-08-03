@@ -112,7 +112,7 @@ Proceedings of the 2023 ACM Conference on Management of Data, SIGMOD 2023.
 </div>
 
 
-<!-- IEEE VIS 2022 -->
+<!-- VisTalk-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/VIS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,7 +120,7 @@ Proceedings of the 2023 ACM Conference on Management of Data, SIGMOD 2023.
 
 Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, and Dongmei Zhang
 
-IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 2022.
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22), 2023.
 
 <div class="extra-links">
     <a class="_blank" href="https://www.microsoft.com/en-us/research/uploads/prod/2022/08/Towards_Natural_Language-Based_Visualization_Authoring.pdf" >

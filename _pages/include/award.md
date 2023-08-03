@@ -2,6 +2,7 @@
 # 📖 Selected Awards
 
 ### Honors and Scholarships
+-   RedBird PhD Award of HKUST. 2023
 -   "Star of Tomorrow" Excellent Internship Award of MSRA. 2023
 -   CIKM 2022 Best Paper Honorable Mention (Demo Track). 2022
 -   NSF and SIGWeb Travel Grants. 2022
