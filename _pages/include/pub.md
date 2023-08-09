@@ -49,7 +49,7 @@ arXiv, 2023.
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <a class="_blank" href="https://wonderflow.azurewebsites.net/#/homepage">
-        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Website
+        <i class="fas fa-link" aria-hidden="true"></i> Website
     </a>
 </div>
 </div>
@@ -77,7 +77,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2023.
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+        <i class="fas fa-link" aria-hidden="true"></i> Code
     </a>
 </div>
 </div>
