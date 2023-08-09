@@ -11,49 +11,49 @@
 IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 2023, to appear.
 
 <div class="extra-links">
-    <!-- <a class="_blank" href="./pdf/graph.pdf" >
+    <a class="_blank" href="./pdf/Data_Player.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="http://arxiv.org/abs/2208.13699">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
-    <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a> -->
+    <!-- <a class="_blank" href="http://arxiv.org/abs/2208.13699">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a> -->
+    <a class="_blank" href="https://datavideos.github.io/Data_Player/">
+        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Website
+    </a>
 </div>
 </div>
 </div>
 
 
 <!-- arxiv 2023 wonderflow -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## WonderFlow: Easy Creation of Narration-Enriched Data Videos
+## WonderFlow: Narration-Centric Design of Animated Data Videos
 
 Yun Wang, **<u>Leixian Shen</u>**, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang
 
 arXiv, 2023.
 
 <div class="extra-links">
-    <a class="_blank" href="./pdf/graph.pdf" >
+    <a class="_blank" href="./pdf/WonderFlow.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="http://arxiv.org/abs/2208.13699">
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2308.04040">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
-    <a class="_blank" href="https://github.com/tzw28/EmbeddingGuidedLayout">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    <a class="_blank" href="https://wonderflow.azurewebsites.net/#/homepage">
+        <i class="ai ai-open-materials ai-1x" aria-hidden="true"></i> Website
     </a>
 </div>
 </div>
-</div> -->
+</div>
 
 
 <!-- TVCG 2023 -->
