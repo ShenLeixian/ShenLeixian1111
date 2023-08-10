@@ -17,9 +17,9 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 20
     <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a> -->
-    <!-- <a class="_blank" href="http://arxiv.org/abs/2208.13699">
+    <a class="_blank" href="https://arxiv.org/abs/2308.04703">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a> -->
+    </a>
     <a class="_blank" href="https://datavideos.github.io/Data_Player/">
         <i class="fas fa-link" aria-hidden="true"></i> Website
     </a>
