@@ -4,10 +4,14 @@
 ### Honors and Scholarships
 -   RedBird PhD Award of HKUST. 2023
 -   "Star of Tomorrow" Excellent Internship Award of MSRA. 2023
+-   Outstanding Master Graduates of THSS in THU. 2023
+-   Excellent Master Thesis of THU. 2023
 -   CIKM 2022 Best Paper Honorable Mention (Demo Track). 2022
 -   NSF and SIGWeb Travel Grants. 2022
 -   First-Class Scholarship for Excellence of THU. 2022
--	Friends of Tsinghua-Jining Talent Scholarship of THU. 2021
+-	Jining Talent Scholarship of THU. 2021
+-   Outstanding Undergraduate Graduates of NJUPT. 2020
+-   Excellent Undergraduate Thesis of NJUPT and Jiangsu Province. 2020
 -	China National Scholarship. 2019
 -	Outstanding Student of Jiangsu Province. 2019
 -	Innovation Pioneer of NJUPT (Only ten in NJUPT). 2019 
