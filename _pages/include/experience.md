@@ -1,6 +1,6 @@
 # 📖 Experience
 <!-- # <font color=Black>Experience</font> -->
-## Education
+### Education
 
 - ### *2023.08 - now*, The Hong Kong University of Science and Technology (HKUST). <br>
 *Ph.D* in Computer Science and Engineering 
@@ -18,7 +18,7 @@ Thesis: "Research on Task-Driven Visualization Recommendation" (Excellent Master
 Thesis: "High-Precision Indoor Wireless Localization Based on UHF RFID" (Excellent Undergraduate Thesis of Jiangsu Province)
 
 
-## Visiting
+### Visiting
 
 - ### *2022.04 - 2023.06*, Microsoft Research Asia (MSRA). <br>
 *Research Intern* in DKI (Data, Knowledge, and Intelligence) Group

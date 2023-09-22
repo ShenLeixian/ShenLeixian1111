@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Leixian Shen"
-  avatar           : "images/Leixian.jpg"
-  bio              : "Ph.D in HKUST"
+  name             : ""
+  avatar           : "images/Leixian1.jpg"
+  bio              : ""
   location         : "Hong Kong"
   employer         :
   pubmed           : 

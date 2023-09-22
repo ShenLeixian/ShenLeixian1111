@@ -25,7 +25,7 @@
 
 
 ### Competition Awards
--   Provincial Grand Prize. "Challenge Cup" College Student Curricular Academic Science and Technology Works Competition. 2019<br>
+-   Provincial Grand Prize. "Challenge Cup" Curricular Academic Science and Technology Works Competition. 2019<br>
 <!-- Project: "High-Precision Indoor Wireless Localization Based on UHF RFID" <br> -->
 -   National First Prize. "3S Cup" College Student IoT Technology and Application Competition. 2018<br>
 <!-- Project: "Smart Library System Based on RFID and Deep Learning" <br> -->
@@ -38,12 +38,12 @@
 -   Third runner-up. Aliyun Tianchi Qianli Ma Competition. 2018
 
 ### Fundings
--   CERNET Next Generation Internet Technology Innovation Program, 2018.12~2019.12, Principal Investigator (¥ 100,000).<br>
-"Smart Library System Based on RFID and IPv6 Network"
--   NJUPT-YTO Joint Laboratory Innovation Program, 2018.08~2019.08, Principal Investigator (¥ 20,000).<br>
-"Modern Logistics Management System Based on RFID and NB-IoT"
--   National College Students Innovation and Entrepreneurship Training Program, 2018.05~2019.05, Principal Investigator (¥ 20,000).<br>
-"High-Precision Indoor Wireless Localization Based on UHF RFID"
+-   CERNET Next Generation Internet Technology Innovation Program, 2018.12~2019.12.<br>
+"Smart Library System Based on RFID and IPv6 Network", Principal Investigator (¥ 100,000).
+-   NJUPT-YTO Joint Laboratory Innovation Program, 2018.08~2019.08.<br>
+"Modern Logistics Management System Based on RFID and NB-IoT", Principal Investigator (¥ 20,000).
+-   National College Students Innovation and Entrepreneurship Training Program, 2018.05~2019.05.<br>
+"High-Precision Indoor Wireless Localization Based on UHF RFID", Principal Investigator (¥ 20,000).
 <!-- -   Smart Service System Program, 2018.04~2018.10, Principal Investigator (¥ 20,000).<br>
 "High-Precision Indoor Wireless Localization Based on UHF RFID" -->
 
