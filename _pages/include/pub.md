@@ -57,10 +57,10 @@ arXiv, 2023.
 
 
 <!-- TVCG 2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- ### Graph Exploration with Embedding-Guided Layouts
+### Graph Exploration with Embedding-Guided Layouts
 
 **<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, and Jianmin Wang (* co-primary author)
 
