@@ -57,7 +57,7 @@ arXiv, 2023.
 
 
 <!-- TVCG 2023 -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Graph Exploration with Embedding-Guided Layouts
@@ -81,7 +81,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2023.
     </a>
 </div>
 </div>
-</div> -->
+</div>
 
 
 <!-- SIGMOD 2023 -->
