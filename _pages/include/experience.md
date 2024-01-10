@@ -6,7 +6,6 @@
 *Ph.D* in Computer Science and Engineering 
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Huamin Qu</font>](http://www.huamin.org/) <br>
 
-
 - ### *2020.09 - 2023.06*, Tsinghua University (THU). <br>
 *Master* in Software Engineering (<i class='fas fa-award' style='color:#000000'> Graduation with Honor</i>)
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Jianmin Wang</font>](https://www.thss.tsinghua.edu.cn/faculty/wangjianmin.htm) and [<font color=Black>Enya Shen</font>](https://www.thss.tsinghua.edu.cn/faculty/shenenya.htm)<br>
@@ -23,7 +22,7 @@ Thesis: "High-Precision Indoor Wireless Localization Based on UHF RFID" (<i clas
 - ### *2022.04 - 2023.06*, Microsoft Research Asia (MSRA). <br>
 *Research Intern* in DKI (Data, Knowledge, and Intelligence) Group
 &ensp;&ensp;&ensp;Advisor: [<font color=Black>Yun Wang</font>](https://www.microsoft.com/en-us/research/people/wangyun/)<br>
-(<i class='fas fa-award' style='color:#000000'> "Star of Tomorrow" Excellent Internship Award of MSRA</i>)
+<i class='fas fa-award' style='color:#000000'> "Star of Tomorrow" Excellent Internship Award of MSRA</i>
 
 - ### *2019.10 - 2020.05*, Tsinghua University (THU). <br>
 *Visiting Intern* in Institute of Trustworthy Networks and Systems
