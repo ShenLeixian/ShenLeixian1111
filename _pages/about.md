@@ -28,7 +28,7 @@ redirect_from:
 {% include_relative include/pub.md %}
 {% include_relative include/experience.md %}
 {% include_relative include/award.md %}
-{% include_relative include/service.md %}
+<!-- {% include_relative include/service.md %} -->
 
 <div style="display:inline-block; margin: 0 auto;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=968f9b&w=253&t=n&d=LNDyveCbdQ7qI6V8UUwCmKVGKchQrNhLyKybxjZFctc&co=fcfcfc&cmn=51c451&cmo=f286ef&ct=0f0e0e'></script>
