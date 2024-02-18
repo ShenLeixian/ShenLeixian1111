@@ -48,9 +48,9 @@ arXiv, 2023.
     <a class="_blank" href="https://arxiv.org/abs/2308.04040">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
-    <a class="_blank" href="https://wonderflow.azurewebsites.net/#/homepage">
+    <!-- <a class="_blank" href="https://wonderflow.azurewebsites.net/#/homepage">
         <i class="fas fa-link" aria-hidden="true"></i> Website
-    </a>
+    </a> -->
 </div>
 </div>
 </div>
