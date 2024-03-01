@@ -1,6 +1,6 @@
 # 📖 Service
 
-- PC Member: CHI LBW 2024.
+- Area Chair: CHI LBW 2024.
 - Conference Reviewer: IEEE VIS 2022-2023, CHI 2024 (One Special Recognition for Outstanding Reviews), CSCW 2023, EuroVis 2023-2024, IUI 2023, PacificVis 2023, IDC 2024, ChinaVis 2022-2023, C&amp;C 2024.
 - Journal Reviewer: International Journal of Human-Computer Interaction (IJHCI).
 - Conference Volunteer: BAAI Conference 2020-2022 (Excellent Editor).
