@@ -1,14 +1,14 @@
 # 📖 Publications 
 
 <!-- IEEE VIS 2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Data Player: Automatic Generation of Data Videos with Narration-Animation Interplay
 
 **<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, and Yun Wang
 
-**TVCG 2024**\|IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23)
+IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23)
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/Data_Player.pdf" >
