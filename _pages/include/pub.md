@@ -1,5 +1,5 @@
 # 📖 Publications
-
+(* indicates co-primary authors)
 <!-- IEEE VIS 2023 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -34,7 +34,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 20
 
 ### WonderFlow: Narration-Centric Design of Animated Data Videos
 
-Yun Wang, **<u>Leixian Shen</u>**, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang
+Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang
 
 arXiv, 2023.
 
@@ -48,9 +48,9 @@ arXiv, 2023.
     <a class="_blank" href="https://arxiv.org/abs/2308.04040">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
-    <!-- <a class="_blank" href="https://wonderflow.azurewebsites.net/#/homepage">
+    <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
         <i class="fas fa-link" aria-hidden="true"></i> Website
-    </a> -->
+    </a>
 </div>
 </div>
 </div>
@@ -62,7 +62,7 @@ arXiv, 2023.
 
 ### Graph Exploration with Embedding-Guided Layouts
 
-**<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, and Jianmin Wang (* co-primary author)
+**<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, and Jianmin Wang
 
 IEEE Transactions on Visualization and Computer Graphics, 2023.
 
