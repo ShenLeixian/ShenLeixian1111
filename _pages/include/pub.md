@@ -1,14 +1,14 @@
-# 📖 Publications
-(* indicates co-primary authors)
+# 📖 Publications 
+
 <!-- IEEE VIS 2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Data Player: Automatic Generation of Data Videos with Narration-Animation Interplay
 
 **<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, and Yun Wang
 
-IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 2024.
+**TVCG 2024**|IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23)
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/Data_Player.pdf" >
@@ -34,7 +34,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23), 20
 
 ### WonderFlow: Narration-Centric Design of Animated Data Videos
 
-Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang
+Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang (* co-primary authors)
 
 arXiv, 2023.
 
@@ -62,7 +62,7 @@ arXiv, 2023.
 
 ### Graph Exploration with Embedding-Guided Layouts
 
-**<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, and Jianmin Wang
+**<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, and Jianmin Wang (* co-primary authors)
 
 IEEE Transactions on Visualization and Computer Graphics, 2023.
 
