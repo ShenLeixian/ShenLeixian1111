@@ -8,7 +8,7 @@
 
 **<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, and Yun Wang
 
-**TVCG 2024**|IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23)
+**TVCG 2024**\|IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23)
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/Data_Player.pdf" >
