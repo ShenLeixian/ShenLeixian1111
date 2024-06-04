@@ -1,5 +1,34 @@
 # 📖 Publications 
 
+<!-- WonderFlow -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### WonderFlow: Narration-Centric Design of Animated Data Videos
+
+Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang (* denotes equal contribution)
+
+**<font color="#144185">TVCG 2024</font>** \| IEEE Transactions on Visualization and Computer Graphics
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/WonderFlow.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2308.04040">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+</div>
+</div>
+</div>
+
+
 <!-- Data Player -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
@@ -22,35 +51,6 @@
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <a class="_blank" href="https://datavideos.github.io/Data_Player/">
-        <i class="fas fa-link" aria-hidden="true"></i> Website
-    </a>
-</div>
-</div>
-</div>
-
-
-<!-- WonderFlow -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### WonderFlow: Narration-Centric Design of Animated Data Videos
-
-Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang (* denotes equal contribution)
-
-**<font color="#144185">arXiv 2023</font>** \| Preprint
-
-<div class="extra-links">
-    <a class="_blank" href="./pdf/WonderFlow.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3238909">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <a class="_blank" href="https://arxiv.org/abs/2308.04040">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
-    <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
         <i class="fas fa-link" aria-hidden="true"></i> Website
     </a>
 </div>
