@@ -57,6 +57,34 @@ Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, 
 </div>
 </div>
 
+<!--  -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/PyGWalker.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box-text' markdown="1">
+
+### PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis
+
+Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
+
+**<font color="#144185">IEEE VIS 2024</font>** \| Proceedings of IEEE Visualization and Visual Analytics (To Appear)
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/PyGWalker.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2406.11637">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/Kanaries/pygwalker">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
 
 <!-- GEGraph -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div> -->
