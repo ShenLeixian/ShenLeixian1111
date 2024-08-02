@@ -1,5 +1,8 @@
 # 📖 Publications 
 
+
+
+
 <!-- WonderFlow -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/CHI2024.png' alt="sym" width="100%"></div></div>
@@ -28,6 +31,60 @@ Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, 
 </div>
 </div>
 
+<!-- NotePlayer -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/NotePlayer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### NotePlayer: Engaging Jupyter Notebooks for Dynamic Presentation of Analytical Processes
+
+Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
+
+**<font color="#144185">UIST 2024</font>** \| The ACM Symposium on User Interface Software and Technology
+
+<div class="extra-links">
+    <!-- <a class="_blank" href="./pdf/WonderFlow.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <a class="_blank" href="https://arxiv.org/abs/2308.04040">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a> -->
+</div>
+</div>
+</div>
+
+<!--PyGWalker-->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/PyGWalker.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box-text' markdown="1">
+
+### PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis
+
+Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
+
+**<font color="#144185">IEEE VIS 2024</font>** \| IEEE Visualization and Visual Analytics Conference (To Appear)
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/PyGWalker.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2406.11637">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/Kanaries/pygwalker">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
 
 <!-- Data Player -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
@@ -52,34 +109,6 @@ Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, 
     </a>
     <a class="_blank" href="https://datavideos.github.io/Data_Player/">
         <i class="fas fa-link" aria-hidden="true"></i> Website
-    </a>
-</div>
-</div>
-</div>
-
-<!--  -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/PyGWalker.png' alt="sym" width="100%"></div></div>
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box-text' markdown="1">
-
-### PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis
-
-Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
-
-**<font color="#144185">IEEE VIS 2024</font>** \| Proceedings of IEEE Visualization and Visual Analytics (To Appear)
-
-<div class="extra-links">
-    <a class="_blank" href="./pdf/PyGWalker.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <a class="_blank" href="https://arxiv.org/abs/2406.11637">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
-    <a class="_blank" href="https://github.com/Kanaries/pygwalker">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
 </div>
@@ -124,7 +153,7 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 
 Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, and **<u>Leixian Shen</u>**
 
-**<font color="#144185">SIGMOD 2023</font>** \| Proceedings of the 2023 ACM Conference on Management of Data
+**<font color="#144185">SIGMOD 2023</font>** \| The 2023 ACM Conference on Management of Data
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/LineNet.pdf" >
@@ -213,7 +242,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 
 **<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
 
-**<font color="#144185">CIKM 2022</font>** \| Proceedings of the 31st ACM International Conference on Information and Knowledge Management (Demo Track)
+**<font color="#144185">CIKM 2022</font>** \| The 31st ACM International Conference on Information and Knowledge Management (Demo Track)
 
 <i class='fas fa-award' style='color:#000000'> Best Demo Paper Honorable Mention</i>
 
@@ -269,7 +298,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 
 **<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
 
-**<font color="#144185">EuroVis 2021</font>** \| Proceedings of the 23rd Eurographics Conference on Visualization (Short Paper)
+**<font color="#144185">EuroVis 2021</font>** \| The 23rd Eurographics Conference on Visualization (Short Paper)
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/TaskVis_EuroVis.pdf" >
