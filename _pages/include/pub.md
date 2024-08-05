@@ -42,16 +42,16 @@ Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
 **<font color="#144185">UIST 2024</font>** \| The ACM Symposium on User Interface Software and Technology
 
 <div class="extra-links">
-    <!-- <a class="_blank" href="./pdf/WonderFlow.pdf" >
+    <a class="_blank" href="./pdf/NotePlayer.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="https://arxiv.org/abs/2308.04040">
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/html/2408.01101">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
-    <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
+    <!-- <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
         <i class="fas fa-link" aria-hidden="true"></i> Website
     </a> -->
 </div>
@@ -221,7 +221,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
     <a class="_blank" href="https://doi.org/10.1109/TVCG.2022.3148007">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a>
-    <a class="_blank" href="https://arxiv.org/abs/2208.10947">
+    <a class="_blank" href="https://arxiv.org/abs/2109.03506">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <!-- <a target="_blank" href="{{ pub.code }}">
