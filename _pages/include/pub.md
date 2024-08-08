@@ -10,7 +10,7 @@
 
 ### WonderFlow: Narration-Centric Design of Animated Data Videos
 
-Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, and Dongmei Zhang (* denotes equal contribution)
+Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, John Thompson, Haidong Zhang, Dongmei Zhang (* denotes equal contribution)
 
 **<font color="#144185">TVCG 2024</font>** \| IEEE Transactions on Visualization and Computer Graphics
 
@@ -58,6 +58,33 @@ Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
 </div>
 </div>
 
+
+<!--Data Director-->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/datadirector.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box-text' markdown="1">
+
+### From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems 
+
+**<u>Leixian Shen</u>**, Haotian Li, Yun Wang, Huamin Qu
+
+**<font color="#144185">IEEE VIS 2024 Gen4DS Workshop</font>** \| IEEE VIS 2024 Workshop on Data Storytelling in an Era of Generative AI
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/Data_Director.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2408.03876">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+</div>
+</div>
+</div>
+
+
 <!--PyGWalker-->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/PyGWalker.png' alt="sym" width="100%"></div></div>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
@@ -93,7 +120,7 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 
 ### Data Player: Automatic Generation of Data Videos with Narration-Animation Interplay
 
-**<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, and Yun Wang
+**<u>Leixian Shen</u>**, Yizhi Zhang, Haidong Zhang, Yun Wang
 
 **<font color="#144185">TVCG 2024</font>** \| IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'23)
 
@@ -122,7 +149,7 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 
 ### Graph Exploration with Embedding-Guided Layouts
 
-**<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, and Jianmin Wang (* denotes equal contribution)
+**<u>Leixian Shen</u>**\*, Zhiwei Tai\*, Enya Shen, Jianmin Wang (* denotes equal contribution)
 
 **<font color="#144185">TVCG 2023</font>** \| IEEE Transactions on Visualization and Computer Graphics
 
@@ -151,7 +178,7 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 
 ### Learned Data-Aware Image Representations of Line Charts for Similarity Search 
 
-Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, and **<u>Leixian Shen</u>**
+Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, **<u>Leixian Shen</u>**
 
 **<font color="#144185">SIGMOD 2023</font>** \| The 2023 ACM Conference on Management of Data
 
@@ -180,7 +207,7 @@ Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, and **<u>Leixian S
 
 ### Towards Natural Language-Based Visualization Authoring
 
-Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, and Dongmei Zhang
+Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Huang, Haidong Zhang, Dongmei Zhang
 
 **<font color="#144185">TVCG 2023</font>** \| IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VIS'22)
 
@@ -210,7 +237,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 
 ### Towards Natural Language Interfaces for Data Visualization: A Survey
 
-**<u>Leixian Shen</u>**, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, and Jianmin Wang
+**<u>Leixian Shen</u>**, Enya Shen, Yuyu Luo, Xiaocong Yang, Xuming Hu, Xiongshuai Zhang, Zhiwei Tai, Jianmin Wang
 
 **<font color="#144185">TVCG 2022</font>** \| IEEE Transactions on Visualization and Computer Graphics
 
@@ -240,7 +267,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 
 ### GALVIS: Visualization Construction through Example-Powered Declarative Programming
 
-**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, and Jianmin Wang
+**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yun Wang, Yuyu Luo, Jianmin Wang
 
 **<font color="#144185">CIKM 2022</font>** \| The 31st ACM International Conference on Information and Knowledge Management (Demo Track)
 
@@ -268,7 +295,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 
 ### Visual Data Analysis with Task-Based Recommendations
 
-**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yihao Xu, Jiaxiang Dong, and Jianmin Wang
+**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yihao Xu, Jiaxiang Dong, Jianmin Wang
 
 **<font color="#144185">DSE 2022</font>** \| Data Science and Engineering
 
@@ -296,7 +323,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 
 ### TaskVis: Task-Oriented Visualization Recommendation
 
-**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yiran Song, and Jianmin Wang
+**<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yiran Song, Jianmin Wang
 
 **<font color="#144185">EuroVis 2021</font>** \| The 23rd Eurographics Conference on Visualization (Short Paper)
 
