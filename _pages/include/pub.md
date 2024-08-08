@@ -96,7 +96,7 @@ Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
 
 **<u>Leixian Shen</u>**, Haotian Li, Yun Wang, Huamin Qu
 
-**<font color="#144185">Gen4DS Workshop 2024</font>** \| IEEE VIS 2024 Workshop on Data Storytelling in an Era of Generative AI
+**<font color="#144185">Gen4DS 2024</font>** \| IEEE VIS 2024 Workshop on Data Storytelling in an Era of Generative AI
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/Data_Director.pdf" >
