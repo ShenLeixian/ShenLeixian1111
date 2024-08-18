@@ -58,6 +58,30 @@ Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, 
 </div>
 
 
+<!--Data Director-->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/datadirector.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box-text' markdown="1">
+
+### From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems 
+
+**<u>Leixian Shen</u>**, Haotian Li, Yun Wang, Huamin Qu
+
+**<font color="#144185">Gen4DS 2024</font>** \| IEEE VIS 2024 Workshop on Data Storytelling in an Era of Generative AI
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/Data_Director.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2408.03876">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+</div>
+</div>
+</div>
 
 <!-- NotePlayer -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/NotePlayer.png' alt="sym" width="100%"></div></div>
@@ -82,32 +106,6 @@ Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
     <!-- <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
         <i class="fas fa-link" aria-hidden="true"></i> Website
     </a> -->
-</div>
-</div>
-</div>
-
-
-<!--Data Director-->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/datadirector.png' alt="sym" width="100%"></div></div>
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box-text' markdown="1">
-
-### From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems 
-
-**<u>Leixian Shen</u>**, Haotian Li, Yun Wang, Huamin Qu
-
-**<font color="#144185">Gen4DS 2024</font>** \| IEEE VIS 2024 Workshop on Data Storytelling in an Era of Generative AI
-
-<div class="extra-links">
-    <a class="_blank" href="./pdf/Data_Director.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <a class="_blank" href="https://arxiv.org/abs/2408.03876">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
 </div>
 </div>
 </div>
@@ -171,34 +169,6 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 </div>
 
 
-<!-- LineNet -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2023</div><img src='images/paper/SIGMOD2023.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/SIGMOD2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### Learned Data-Aware Image Representations of Line Charts for Similarity Search 
-
-Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, **<u>Leixian Shen</u>**
-
-**<font color="#144185">SIGMOD 2023</font>** \| The 2023 ACM Conference on Management of Data
-
-<div class="extra-links">
-    <a class="_blank" href="./pdf/LineNet.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3588942">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <!-- <a class="_blank" href="https://arxiv.org/abs/2208.10947">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a> -->
-    <a target="_blank" href="https://github.com/Thanksyy/LineNet-and-LineBench-SIGMOD2023">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
 
 <!-- VisTalk-->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/VIS2022.png' alt="sym" width="100%"></div></div> -->
@@ -222,6 +192,34 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
     <a target="_blank" href="https://github.com/microsoft/VisTalk">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
+<!-- LineNet -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGMOD 2023</div><img src='images/paper/SIGMOD2023.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/SIGMOD2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Learned Data-Aware Image Representations of Line Charts for Similarity Search 
+
+Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, **<u>Leixian Shen</u>**
+
+**<font color="#144185">SIGMOD 2023</font>** \| The 2023 ACM Conference on Management of Data
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/LineNet.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3588942">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a>
+    <!-- <a class="_blank" href="https://arxiv.org/abs/2208.10947">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a> -->
+    <a target="_blank" href="https://github.com/Thanksyy/LineNet-and-LineBench-SIGMOD2023">
         <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
     </a>
 </div>
@@ -297,7 +295,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 
 **<u>Leixian Shen</u>**, Enya Shen, Zhiwei Tai, Yihao Xu, Jiaxiang Dong, Jianmin Wang
 
-**<font color="#144185">DSE 2022</font>** \| Data Science and Engineering
+**<font color="#144185">DSE 2022</font>** \| Data Science and Engineering (Highlighted Paper)
 
 <div class="extra-links">
     <a class="_blank" href="https://rdcu.be/cVxfr" >
