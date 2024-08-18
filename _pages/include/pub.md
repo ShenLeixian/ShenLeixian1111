@@ -1,6 +1,6 @@
 # 📖 Publications 
 
-2024
+### 2024
 <!-- Data Player -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
@@ -141,7 +141,7 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 </div>
 </div>
 
-2023
+### 2023
 <!-- GEGraph -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/TVCG_graph2022.png' alt="sym" width="100%"></div></div>
@@ -229,7 +229,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 </div>
 
 
-2022
+### 2022
 <!-- NLI Survey -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2022</div><img src='images/paper/TVCG2022.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/TVCG2022.png' alt="sym" width="100%"></div></div>
@@ -316,7 +316,7 @@ Yun Wang, Zhitao Hou, **<u>Leixian Shen</u>**, Tongshuang Wu, Jiaqi Wang, He Hua
 </div>
 </div>
 
-2021
+### 2021
 <!-- TaskVis EuroVis 2021 -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroVis 2021</div><img src='images/paper/EuroVis2021.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/EuroVis2021.png' alt="sym" width="100%"></div></div>
