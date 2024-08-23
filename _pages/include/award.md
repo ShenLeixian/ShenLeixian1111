@@ -2,7 +2,7 @@
 # 📖 Selected Awards
 
 ### Honors and Scholarships
--   IEEE VIS 2024 Best Short Paper Award. 2024
+-   IEEE VIS 2024 Best Short Paper. 2024
 -   RedBird PhD Award of HKUST. 2023
 -   "Star of Tomorrow" Excellent Internship Award of MSRA. 2023
 -   Outstanding Master Graduates of THSS in THU. 2023
