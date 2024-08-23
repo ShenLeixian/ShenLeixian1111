@@ -122,6 +122,8 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 
 **<font color="#144185">IEEE VIS 2024</font>** \| IEEE Visualization and Visual Analytics Conference (Short Paper)
 
+<i class='fas fa-award' style='color:#a4312a'> Best Short Paper</i>
+
 <div class="extra-links">
     <a class="_blank" href="./pdf/PyGWalker.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
@@ -269,7 +271,7 @@ Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, **<u>Leixian Shen<
 
 **<font color="#144185">CIKM 2022</font>** \| The 31st ACM International Conference on Information and Knowledge Management (Demo Track)
 
-<i class='fas fa-award' style='color:#000000'> Best Demo Paper Honorable Mention</i>
+<i class='fas fa-award' style='color:#a4312a'> Best Demo Paper Honorable Mention</i>
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
