@@ -70,6 +70,7 @@ Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
 **<font color="#144185">IEEE VIS 2024</font>** \| IEEE Visualization and Visual Analytics Conference (Short Paper)
 
 <i class='fas fa-award' style='color:#a4312a'> Best Short Paper</i>
+<!-- (1/207) -->
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/PyGWalker.pdf" >
@@ -137,6 +138,33 @@ Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
     <!-- <a class="_blank" href="https://datavideos.github.io/WonderFlow/#/homepage">
         <i class="fas fa-link" aria-hidden="true"></i> Website
     </a> -->
+</div>
+</div>
+</div>
+
+<!-- ChartInsights -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/ChartInsights.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering 
+
+Yifan Wu, Lutao Yan, **<u>Leixian Shen</u>**, Yunhai Wang, Nan Tang, Yuyu Luo
+
+**<font color="#144185">EMNLP 2024</font>** \| The Conference on Empirical Methods in Natural Language Processing (Findings)
+
+<div class="extra-links">
+    <!-- <a class="_blank" href="./pdf/NotePlayer.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a> -->
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <!-- <a class="_blank" href="https://arxiv.org/html/2408.01101">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a> -->
+    <a class="_blank" href="https://github.com/HKUSTDial/ChartInsights">
+        <i class="fas fa-link" aria-hidden="true"></i> Code
+    </a>
 </div>
 </div>
 </div>
@@ -275,6 +303,7 @@ Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, **<u>Leixian Shen<
 **<font color="#144185">CIKM 2022</font>** \| The 31st ACM International Conference on Information and Knowledge Management (Demo Track)
 
 <i class='fas fa-award' style='color:#a4312a'> Best Demo Paper Honorable Mention</i>
+<!-- (5/100) -->
 
 <div class="extra-links">
     <a class="_blank" href="./pdf/GALVIS_CIKM22.pdf" >
