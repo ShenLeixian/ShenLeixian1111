@@ -153,9 +153,9 @@ Yifan Wu, Lutao Yan, **<u>Leixian Shen</u>**, Yunhai Wang, Nan Tang, Yuyu Luo
 **<font color="#144185">EMNLP 2024</font>** \| The Conference on Empirical Methods in Natural Language Processing (Findings)
 
 <div class="extra-links">
-    <!-- <a class="_blank" href="./pdf/NotePlayer.pdf" >
+    <a class="_blank" href="./pdf/ChartInsights.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a> -->
+    </a>
     <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a> -->
@@ -164,6 +164,9 @@ Yifan Wu, Lutao Yan, **<u>Leixian Shen</u>**, Yunhai Wang, Nan Tang, Yuyu Luo
     </a> -->
     <a class="_blank" href="https://github.com/HKUSTDial/ChartInsights">
         <i class="fas fa-link" aria-hidden="true"></i> Code
+    </a>
+    <a class="_blank" href="https://chartinsight.github.io/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
     </a>
 </div>
 </div>
