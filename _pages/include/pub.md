@@ -214,9 +214,9 @@ Yifan Wu, Lutao Yan, **<u>Leixian Shen</u>**, Yunhai Wang, Nan Tang, Yuyu Luo
     <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
     </a> -->
-    <!-- <a class="_blank" href="https://arxiv.org/html/2408.01101">
+    <a class="_blank" href="https://arxiv.org/abs/2405.07001">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a> -->
+    </a>
     <a class="_blank" href="https://github.com/HKUSTDial/ChartInsights">
         <i class="fas fa-link" aria-hidden="true"></i> Code
     </a>
