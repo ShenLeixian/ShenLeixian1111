@@ -14,15 +14,15 @@
 **<font color="#144185">TVCG 2024</font>** \| IEEE Transactions on Visualization and Computer Graphics
 
 <div class="extra-links">
-    <!-- <a class="_blank" href="./pdf/Data_Player.pdf" >
+    <a class="_blank" href="./pdf/DataPlaywright.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a> -->
+    </a>
     <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a>
-    <a class="_blank" href="https://arxiv.org/abs/2308.04703">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2410.03093">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
     <a class="_blank" href="https://datavideos.github.io/Data-Playwright/">
         <i class="fas fa-link" aria-hidden="true"></i> Website
     </a>
@@ -86,39 +86,6 @@ Yun Wang\*, **<u>Leixian Shen</u>**\*, Zhengxin You, Xinhuan Shu, Bongshin Lee, 
 </div>
 </div>
 
-
-<!--PyGWalker-->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/PyGWalker.png' alt="sym" width="100%"></div></div>
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box-text' markdown="1">
-
-### PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis
-
-Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
-
-**<font color="#144185">IEEE VIS 2024</font>** \| IEEE Visualization and Visual Analytics Conference (Short Paper)
-
-<i class='fas fa-award' style='color:#a4312a'> Best Short Paper</i>
-<!-- (1/207) -->
-
-<div class="extra-links">
-    <a class="_blank" href="./pdf/PyGWalker.pdf" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
-    </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
-        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
-    <a class="_blank" href="https://arxiv.org/abs/2406.11637">
-        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
-    </a>
-    <a class="_blank" href="https://github.com/Kanaries/pygwalker">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-</div>
-</div>
-
-
 <!--Data Director-->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/datadirector.png' alt="sym" width="100%"></div></div>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
@@ -170,6 +137,65 @@ Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
 </div>
 </div>
 </div>
+
+<!-- NarrativePlayer -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/NarrativePlayer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Narrative Player: Reviving Data Narratives with Visuals
+
+ Zekai Shao, **<u>Leixian Shen</u>**, Haotian Li, Yi Shan, Huamin Qu, Yun Wang, Siming Chen   
+
+**<font color="#144185">arXiv 2024</font>** \| Preprint
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/NarrativePlayer.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2410.03268">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://datavideos.github.io/Narrative_Player/">
+        <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+</div>
+</div>
+</div>
+
+<!--PyGWalker-->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/PyGWalker.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/paper/VIS2023.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box-text' markdown="1">
+
+### PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis
+
+Yue Yu, **<u>Leixian Shen</u>**, Fei Long, Huamin Qu, Hao Chen
+
+**<font color="#144185">IEEE VIS 2024</font>** \| IEEE Visualization and Visual Analytics Conference (Short Paper)
+
+<i class='fas fa-award' style='color:#a4312a'> Best Paper Award (Top 1%)</i>
+<!-- (1/207) -->
+
+<div class="extra-links">
+    <a class="_blank" href="./pdf/PyGWalker.pdf" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
+    </a>
+    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
+        <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
+    </a> -->
+    <a class="_blank" href="https://arxiv.org/abs/2406.11637">
+        <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
+    </a>
+    <a class="_blank" href="https://github.com/Kanaries/pygwalker">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+</div>
+</div>
+
 
 <!-- ChartInsights -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/ChartInsights.png' alt="sym" width="100%"></div></div>
@@ -334,7 +360,7 @@ Yuyu Luo, Yihui Zhou, Nan Tang, Guoliang Li, Chengliang Chai, **<u>Leixian Shen<
 
 **<font color="#144185">CIKM 2022</font>** \| The 31st ACM International Conference on Information and Knowledge Management (Demo Track)
 
-<i class='fas fa-award' style='color:#a4312a'> Best Demo Paper Honorable Mention</i>
+<i class='fas fa-award' style='color:#a4312a'> Best Paper Honorable Mention (Top 5%)</i>
 <!-- (5/100) -->
 
 <div class="extra-links">
