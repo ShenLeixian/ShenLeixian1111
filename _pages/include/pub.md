@@ -17,9 +17,9 @@
     <a class="_blank" href="./pdf/DataPlaywright.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2023.3327197">
+    <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3477926">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <a class="_blank" href="https://arxiv.org/abs/2410.03093">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
@@ -125,9 +125,9 @@ Yang Ouyang, **<u>Leixian Shen</u>**, Yun Wang, Quan Li
     <a class="_blank" href="./pdf/NotePlayer.pdf" >
         <i class="fas fa-newspaper" aria-hidden="true"></i> PDF
     </a>
-    <!-- <a class="_blank" href="https://doi.org/10.1109/TVCG.2024.3411575">
+    <a class="_blank" href="https://doi.org/10.1145/3654777.3676410">
         <i class="ai ai-doi ai-1x" aria-hidden="true"></i> DOI
-    </a> -->
+    </a>
     <a class="_blank" href="https://arxiv.org/html/2408.01101">
         <i class="ai ai-arxiv ai-1x" aria-hidden="true"></i> arXiv
     </a>
